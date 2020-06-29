@@ -1,0 +1,10 @@
+README.md
+runner
+setup.py
+Seasonality/Seasonality.py
+Seasonality/__init__.py
+seasonality_removal.egg-info/PKG-INFO
+seasonality_removal.egg-info/SOURCES.txt
+seasonality_removal.egg-info/dependency_links.txt
+seasonality_removal.egg-info/top_level.txt
+version/__init__.py

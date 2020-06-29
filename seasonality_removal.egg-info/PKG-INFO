@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: seasonality-removal
+Version: 0.1
+Summary: A python project that removes the seasonality from timeseries when a date column is available
+Home-page: https://github.com/admdemiraj/SeasonalityRemoval
+Author: Admir Demiraj
+Author-email: admdemiraj@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: seasonality_removal timeseries seasonal_adjustment seasonal_indexes
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3

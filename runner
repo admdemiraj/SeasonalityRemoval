@@ -1,0 +1,4 @@
+from Seasonality import Seasonality
+
+seasonality = Seasonality()
+seasonality.start()
